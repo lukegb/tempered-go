@@ -1,4 +1,4 @@
-package tempered-go
+package temperedgo
 
 // #cgo LDFLAGS: -ltempered -lhidapi-hidraw
 // #include <tempered.h>
